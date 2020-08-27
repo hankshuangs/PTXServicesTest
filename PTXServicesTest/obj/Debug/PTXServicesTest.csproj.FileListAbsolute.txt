@@ -1,0 +1,15 @@
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\bin\Debug\PTXServicesTest.exe.config
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\bin\Debug\PTXServicesTest.exe
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\bin\Debug\PTXServicesTest.pdb
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\obj\Debug\PTXServicesTest.csprojAssemblyReference.cache
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\obj\Debug\PTXServicesTest.GetData.resources
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\obj\Debug\PTXServicesTest.Properties.Resources.resources
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\obj\Debug\PTXServicesTest.csproj.GenerateResource.cache
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\obj\Debug\PTXServicesTest.csproj.CoreCompileInputs.cache
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\obj\Debug\PTXServicesTest.exe
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\obj\Debug\PTXServicesTest.pdb
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\bin\Debug\RestSharp.dll
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\bin\Debug\RestSharp.xml
+C:\Users\Hanks\source\repos\PTXServicesTest\PTXServicesTest\obj\Debug\PTXServicesTest.csproj.CopyComplete
